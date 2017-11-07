@@ -3,4 +3,6 @@ Aplicativo(s) em python, gerando interface gráfica em GTK3 (através de Glade),
 
 Pré-requisitos:
 
-- 
+- python pip : sudo apt install python-pip
+- zabbix_api : pip install zabbix-api (https://github.com/gescheit/scripts/tree/master/zabbix)
+
